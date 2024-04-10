@@ -1,0 +1,12 @@
+cc1933ea31005277a20400a36c49b5fe *DESCRIPTION
+a9c72ab21a7448f32e09dc95f6455dee *NAMESPACE
+2d85ae79e8c1e1338be851198fcff558 *R/est_sparseCov.R
+056e570eee5b52c1522b09da03d75ea9 *R/make_cov.R
+6f0b94b3f0206c7f66f7263c3be6b88e *R/sampleMVN.R
+9ad35dafccb922f98c539419f8adef4a *R/select_threshold.R
+3396bd34ccd5070a0effc92fb340592d *R/threshold_operator.R
+f167b96c13c63d585ccead24be7582a2 *man/block.true.cov.Rd
+c89bdb5d713da7b424cf9a2eadc5e94c *man/est_delta.Rd
+872f270738606c0694fbff63d02fde32 *man/est_sparseCov.Rd
+90a3da99ef36146b44669046fdf0f40c *man/sampleMVN.Rd
+e1b7ec213afeb7202d2032c3f8b2b187 *man/thresh_op.Rd
